@@ -11,8 +11,6 @@
 - 茨城県
 - ゲーマー、ブロガー、予言テスト・未来クイズ・ブックメーカー問題作成
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aALk-ml9gQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # Skills
 - OS (windows)
 - Languages (HTML,CSS,Javascript)
@@ -21,3 +19,12 @@
 
 # Works
 - [未来クイズわ～るど！](https://futurequiz.world/)
+
+
+# History
+学歴
+- 2018年　卒業
+- 2016年　予言者育成学園入学
+
+予言者育成学園のようす
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aALk-ml9gQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
