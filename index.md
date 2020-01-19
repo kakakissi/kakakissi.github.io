@@ -1,3 +1,5 @@
+![プロフィール写真](blog-profile-icon-2)
+
 # About
 
 予言者です。  
