@@ -1,4 +1,4 @@
-![プロフィール写真](blog-profile-icon-2)
+![プロフィール写真](blog-profile-icon-2.png)
 
 # About
 
