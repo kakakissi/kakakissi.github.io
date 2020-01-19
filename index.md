@@ -11,6 +11,8 @@
 - 茨城県
 - ゲーマー、ブロガー、予言テスト・未来クイズ・ブックメーカー問題作成
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aALk-ml9gQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Skills
 - OS (windows)
 - Languages (HTML,CSS,Javascript)
