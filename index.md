@@ -20,6 +20,9 @@
 # Works
 - [未来クイズわ～るど！](https://futurequiz.world/)
 
+# Contact
+
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/kakakissi_FTA?ref_src=twsrc%5Etfw">Tweets by kakakissi_FTA</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # History
 学歴
