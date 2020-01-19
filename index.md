@@ -22,6 +22,8 @@
 
 # Contact
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「未来クイズ」の基本フォーマット<br>・題材は「未来に起こる事柄すべて」。<br>・問題として取り上げる出来事に対しては中立な立場で出題しているつもりです……が、極端に思い入れの高い要素がある場合はこの限りではありません</p>&mdash; カカキッシ@予言テスト作家（出題数3500問以上） (@kakakissi_FTA) <a href="https://twitter.com/kakakissi_FTA/status/1198499367331565569?ref_src=twsrc%5Etfw">November 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/kakakissi_FTA?ref_src=twsrc%5Etfw">Tweets by kakakissi_FTA</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # History
